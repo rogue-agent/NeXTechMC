@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nextech",
+  "name": "NeXTechmod",
+  "description": "A simulation of the realism ingame",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "https://minecraft.curseforge.com/projects/nxtsel3/files",
+  "authorList": ["KingNXT and the glorious NeXTech Dev team"],
+  "credits": "Thanx to Choonster, Jimbo and Wuppy for helping us out.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
