@@ -16,7 +16,7 @@ public class Main {
 
     public static final String nextech = "NeXT";
     public static final String nextechm = "NeXTech Mod";
-    public static final String nextv = "b4.1710";
+    public static final String nextv = "4.1710";
     public static final String nexgui = "nexgui";
 
 
