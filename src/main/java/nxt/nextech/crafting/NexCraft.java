@@ -2,6 +2,7 @@ package nxt.nextech.crafting;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 
+import net.minecraft.client.Minecraft;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
@@ -21,6 +22,7 @@ public class NexCraft {
 
         //Shapeless
         //GameRegistry.addShapelessRecipe(new ItemStack(MinecrewBlock.AdvancedMachineFrame, 1), new Object[]{MinecrewBlock.MachineFrame, Blocks.field_150484_ah});
+        //GameRegistry.addShapelessRecipe(new ItemStack(net.minecraft.item., 1), new Object[]{MinecrewBlock.MachineFrame, Blocks.field_150484_ah});
 
 
         //Furnace recipes here

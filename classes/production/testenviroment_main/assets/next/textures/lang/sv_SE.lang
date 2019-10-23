@@ -1,0 +1,46 @@
+< sv_SE.lang - Swedish(Svensk) lang file for NeXTech > 
+item.Plastic.name=Plastpelletar 
+item.DustSulfur.name=Sulfatpulver 
+item.StonePebbles.name=Stenar 
+item.DustTechnetium.name=Technetiumpulver
+item.ChunkUranium.name=Uranbit
+item.ChunkCopper.name=Kopparbit 
+item.IngotCopper.name=Koppartacka
+item.ChunkIridium.name=Iridiumbit
+item.IngotIridium.name=Iridiumtacka
+item.ChunkOsmium.name=Osmiumbit
+item.ChunkOsmiridium.name=Osmiridiumbit
+item.IngotOsmium.name=Osmiumtacka
+item.ChunkTitanium.name=Titaniumbit
+item.IngotTitanium.name=Titaniumtacka
+item.ChunkGallium.name=Galliumbit
+item.IngotGallium.name=Galliumtacka
+item.ChunkSilver.name=Silverbit
+item.IngotSilver.name=Silvertacka
+item.IngotUranium.name=Uranbit
+item.IngotCadmium.name=Cadmiumtacka
+item.ChunkCadmium.name=Cadmiumbit
+item.ChunkThorium.name=Toriumbit
+item.CoalAnthracite.name=Antrasitkol
+item.DustPotassiumNitrate=Kaliumnitrat
+ 
+itemGroup.techmod=NeXTech mod
+
+tile.OreCadmium.name=Cadmium-malm
+tile.OreIridium.name=Iridium-malm
+tile.OreUranium.name=Uranmalm
+tile.OreOsmium.name=Osmium-malm
+tile.OreWolfram.name=Wolfram-malm
+tile.OreOsmiridium.name=Osmiridium-malm
+tile.OrePlatinum.name=Platinmalm
+tile.OreNickel.name=Nikkelmalm
+tile.OreSulfur.name=Sulfatmalm
+tile.OreCopper.name=Kopparmalm
+tile.OreTitanium.name=Titanmalm
+tile.OreGallium.name=Galliummalm
+tile.OreSilver.name=Silvermalm
+tile.Forge.name=Ässja
+tile.ForgeActive.name=Aktiv Ässja
+tile.OreThorium.name=Thorium-malm
+tile.OreCoalAnthracite=Antrasiittimalm
+tile.OrePotassiumNitrate=Kaliumnitratkristall

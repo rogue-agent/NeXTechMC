@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nextech",
+  "name": "NeXTech mod",
+  "description": "Like gregtech but cooler",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "https://minecraft.curseforge.com/projects/nxtsel3/files",
+  "authorList": ["Rogue-agent and the glorious NeXTech Dev team"],
+  "credits": "Thanks to KingNXT, Choonster, Jimbo and Wuppy for helping us out.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

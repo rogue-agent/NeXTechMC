@@ -20,6 +20,7 @@ public class CommonProxy {
         NexCraft.init();
         NexGui.init();
 
+
     }
 
     public void init(FMLInitializationEvent e) {

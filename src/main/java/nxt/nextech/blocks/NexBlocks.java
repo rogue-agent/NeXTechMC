@@ -52,7 +52,7 @@ public final class NexBlocks {
         GameRegistry.registerBlock(OrePotassiumNitrate = new OrePotassiumNitrate("OrePotassiumNitrate", Material.rock), "OrePotassiumNitrate");
 
         //Machines
-        GameRegistry.registerBlock(Forge = new Forge("Forge", Material.iron), "Forge");
+        //GameRegistry.registerBlock(Forge = new Forge("Forge", Material.iron), "Forge");
         //GameRegistry.registerBlock(Forge = new ForgeActive("ForgeActive", Material.iron), "ForgeActive");
     }
 }
