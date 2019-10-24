@@ -1,3 +1,64 @@
-[13:07:14] [main/INFO]: Setting user: Player266
-[13:07:16] [Client thread/INFO]: LWJGL Version: 2.9.1
-[13:07:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ctOS Addon, FMLFileResourcePack:NeXTech Mod
+[20:08:47] [main/INFO]: Setting user: Player352
+[20:08:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:09:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NeXTech Mod
+[20:09:09] [Sound Library Loader/INFO]: Sound engine started
+[20:09:12] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:09:12] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:09:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NeXTech Mod
+[20:09:13] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:09:13] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[20:09:14] [Sound Library Loader/INFO]: Sound engine started
+[20:09:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:09:58] [Server thread/INFO]: Generating keypair
+[20:09:59] [Server thread/INFO]: Converting map!
+[20:09:59] [Server thread/INFO]: Scanning folders...
+[20:09:59] [Server thread/INFO]: Total conversion count is 0
+[20:09:59] [Server thread/INFO]: Preparing start region for level 0
+[20:10:00] [Server thread/INFO]: Preparing spawn area: 4%
+[20:10:01] [Server thread/INFO]: Preparing spawn area: 9%
+[20:10:02] [Server thread/INFO]: Preparing spawn area: 21%
+[20:10:03] [Server thread/INFO]: Preparing spawn area: 33%
+[20:10:04] [Server thread/INFO]: Preparing spawn area: 47%
+[20:10:06] [Server thread/INFO]: Preparing spawn area: 60%
+[20:10:07] [Server thread/INFO]: Preparing spawn area: 78%
+[20:10:08] [Server thread/INFO]: Preparing spawn area: 95%
+[20:10:08] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:10:09] [Server thread/INFO]: Player352[local:E:a5a97020] logged in with entity id 201 at (-18.5, 61.0, 183.5)
+[20:10:09] [Server thread/INFO]: Player352 joined the game
+[20:10:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 246 ms
+[20:10:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 124 ms
+[20:10:17] [Server thread/INFO]: Saving and pausing game...
+[20:10:17] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Overworld
+[20:10:18] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Nether
+[20:10:18] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/The End
+[20:10:26] [Server thread/INFO]: Player352 has just earned the achievement [Taking Inventory]
+[20:10:26] [Client thread/INFO]: [CHAT] Player352 has just earned the achievement [Taking Inventory]
+[20:12:58] [Server thread/INFO]: [Player352: Set own game mode to Survival Mode]
+[20:12:58] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:13:32] [Server thread/INFO]: [Player352: Set own game mode to Creative Mode]
+[20:13:32] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:14:02] [Server thread/INFO]: [Player352: Set own game mode to Survival Mode]
+[20:14:02] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:14:28] [Server thread/INFO]: [Player352: Set own game mode to Creative Mode]
+[20:14:28] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:14:42] [Server thread/INFO]: Saving and pausing game...
+[20:14:42] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Overworld
+[20:14:42] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Nether
+[20:14:42] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/The End
+[20:14:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NeXTech Mod
+[20:14:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:14:47] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[20:14:48] [Sound Library Loader/INFO]: Sound engine started
+[20:15:06] [Server thread/INFO]: [Player352: Dein Spielmodus wurde auf Überlebensmodus gesetzt]
+[20:15:06] [Client thread/INFO]: [CHAT] Dein Spielmodus wurde geändert
+[20:15:40] [Server thread/INFO]: Saving and pausing game...
+[20:15:40] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Overworld
+[20:15:40] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Nether
+[20:15:40] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/The End
+[20:15:41] [Server thread/INFO]: Stopping server
+[20:15:41] [Server thread/INFO]: Saving players
+[20:15:41] [Server thread/INFO]: Saving worlds
+[20:15:41] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Overworld
+[20:15:41] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/Nether
+[20:15:41] [Server thread/INFO]: Saving chunks for level 'b3.11.1710'/The End
+[20:15:46] [Client thread/INFO]: Stopping!

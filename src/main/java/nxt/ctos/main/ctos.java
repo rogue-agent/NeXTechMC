@@ -9,9 +9,9 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import nxt.nextech.main.*;
 
 
-@Mod(modid = ctos.ctosc, name = ctos.ctosn, version = ctos.ctosv)
+//@Mod(modid = ctos.ctosc, name = ctos.ctosn, version = ctos.ctosv)
 public class ctos {
-
+/*
     public static final String ctosc = "ctOS";
     public static final String ctosn = "ctOS Addon";
     public static final String ctosv = "a0.1.1710";
@@ -41,4 +41,4 @@ public class ctos {
         proxy.postInit(e);
     }
 
-}
+*/}
