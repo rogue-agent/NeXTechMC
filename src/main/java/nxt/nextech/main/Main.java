@@ -16,8 +16,10 @@ public class Main {
 
     public static final String nextech = "NeXT";
     public static final String nextechm = "NeXTech Mod";
-    public static final String nextv = "b4.1710";
+    public static final String nextv = "b3.11.1710";
     public static final String nexgui = "nexgui";
+
+
 
 
     @Mod.Instance
