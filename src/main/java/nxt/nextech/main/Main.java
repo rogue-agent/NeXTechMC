@@ -8,7 +8,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 import nxt.nextech.crafting.NexCraft;
-import nxt.nextech.lib.NexFuelhandler;
+import nxt.nextech.lib.*;
 
 
 @Mod(modid = Main.nextech, name = Main.nextechm, version = Main.nextv)

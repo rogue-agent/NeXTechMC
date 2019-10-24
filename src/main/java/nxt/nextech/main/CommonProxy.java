@@ -26,7 +26,7 @@ public class CommonProxy {
     public void init(FMLInitializationEvent e) {
         GameRegistry.registerWorldGenerator(new NexGen(), 0);
         NetworkRegistry.INSTANCE.registerGuiHandler(Main.instance, new NexGui());
-        GameRegistry.registerFuelHandler(new NexFuelhandler());
+        //GameRegistry.registerFuelHandler(new NexFuelhandler());
     }
 
     public void postInit(FMLPostInitializationEvent e) {

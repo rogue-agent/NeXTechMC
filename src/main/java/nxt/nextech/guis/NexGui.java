@@ -19,4 +19,7 @@ public class NexGui implements IGuiHandler {
     //    return ID == Guis.FORGE.ordinal()?new GuiForge(player, world, x, y, z):(ID == Guis.BARREL.ordinal()?new GuiBarrel(player, world, x, y, z):null);
         return null;
     }
+
+    public static void init() {
+    }
 }

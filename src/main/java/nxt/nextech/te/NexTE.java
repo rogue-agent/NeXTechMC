@@ -11,7 +11,7 @@ public class NexTE {
     }
 
     private static void registerTileEntity() {
-        GameRegistry.registerTileEntity(ForgeTE.class, nextech.MODID);
+        //GameRegistry.registerTileEntity(ForgeTE.class, nextech.MODID);
     }
 
 }
