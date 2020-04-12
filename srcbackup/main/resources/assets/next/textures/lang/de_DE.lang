@@ -1,0 +1,46 @@
+< de_DE.lang - German(Deutsch) lang file for NeXTech >
+item.Plastic.name=Kunststoff Pellets
+item.DustSulfur.name=Schwefel Staub
+item.StonePebbles.name=Kieselsteine
+item.DustTechnetium.name=Technetium Staub
+item.ChunkUranium.name=Uraan Stein
+item.ChunkCopper.name=Kupferklumpen
+item.IngotCopper.name=Kupferbarren
+item.ChunkIridium.name=Iridiumklumpen
+item.IngotIridium.name=Iridiumbarren
+item.ChunkOsmium.name=Osmiumklumpen
+item.ChunkOsmiridium.name=Osmiridiumklumpen
+item.IngotOsmium.name=Osmiumbarren
+item.ChunkTitanium.name=Titanklumpen
+item.IngotTitanium.name=Titaniumbarren
+item.ChunkGallium.name=Galliumklumpen
+item.IngotGallium.name=Galliumbarren
+item.ChunkSilver.name=Silberklumpen
+item.IngotSilver.name=Silberbarren
+item.IngotUranium.name=Uranplatte
+item.IngotCadmium.name=Cadmiumbarren
+item.ChunkCadmium.name=Cadmiumklumpen
+item.ChunkThorium.name=Thoriumklumpen
+item.CoalAnthracite.name=Antrazit kohle
+item.DustPotassiumNitrate=Kaliumnitrat
+
+itemGroup.techmod=NeXTech mod
+
+tile.OreCadmium.name=Cadmiumerz
+tile.OreIridium.name=Iridiumerz
+tile.OreUranium.name=Uranerz
+tile.OreOsmium.name=Osmiumerz
+tile.OreWolfram.name=Wolframerz
+tile.OreOsmiridium.name=Osmiridiumerz
+tile.OrePlatinum.name=Platinerz
+tile.OreNickel.name=Nickelerz
+tile.OreSulfur.name=Schwefelerz
+tile.OreCopper.name=Kupfererz
+tile.OreTitanium.name=Titanerz
+tile.OreGallium.name=Galliumerz
+tile.OreSilver.name=Silbererz
+tile.Forge.name=Schmelze
+tile.ForgeActive.name=
+tile.OreThorium.name=Thoriumerz
+tile.OreCoalAnthracite=Antraziterz
+tile.OrePotassiumNitrate=Kaliumnitraterz

@@ -1,0 +1,46 @@
+< fi_FI.lang - Finish(Suomalainen) lang file for NeXTech >
+item.Plastic.name=Muovipellettejä
+item.DustSulfur.name=Rikkijauho
+item.StonePebbles.name=Kiviä
+item.DustTechnetium.name=Technetiumjauhoa
+item.ChunkUranium.name=Uraanikimpale
+item.ChunkCopper.name=Kuparikimpale
+item.IngotCopper.name=Kupariharkko
+item.ChunkIridium.name=Iridiumkimpale
+item.IngotIridium.name=Iridiumharkko
+item.ChunkOsmium.name=Osmiumkimpale
+item.ChunkOsmiridium.name=Osmiridiumkimpale
+item.IngotOsmium.name=Osmiumharkko
+item.ChunkTitanium.name=Titanikimpale
+item.IngotTitanium.name=Titaniharkko
+item.ChunkGallium.name=Galliumkimpale
+item.IngotGallium.name=Galliumharkko
+item.ChunkSilver.name=Hopeakimpale
+item.IngotSilver.name=Hopeharkko
+item.IngotUranium.name=Uraanilevy
+item.IngotCadmium.name=Cadmiumharkko
+item.ChunkCadmium.name=Cadmiumkimpale
+item.ChunkThorium.name=Thoriumkimpale
+item.CoalAnthracite.name=Antrasiitti
+item.DustPotassiumNitrate=Kaliumnitraatti
+
+itemGroup.techmod=NeXTech mod
+
+tile.OreCadmium.name=Cadmium-malmi
+tile.OreIridium.name=Iridium-malmi
+tile.OreUranium.name=Uraanimalmi
+tile.OreOsmium.name=Osmium-malmi
+tile.OreWolfram.name=Wolframimalmi
+tile.OreOsmiridium.name=Osmiridium-malmi
+tile.OrePlatinum.name=Platinamalmi
+tile.OreNickel.name=Nikkelimalmi
+tile.OreSulfur.name=Rikkimalmi
+tile.OreCopper.name=Kuparimalmi
+tile.OreTitanium.name=Titanimalmi
+tile.OreGallium.name=Gallium-malmi
+tile.OreSilver.name=Hopeamalmi
+tile.Forge.name=Ahjo
+tile.ForgeActive.name=Aktiivinen Ahjo
+tile.OreThorium.name=Thorium-malmi
+tile.OreCoalAnthracite=Antrasiittimalmi
+tile.OrePotassiumNitrate=Kaliumnitraattikristalli

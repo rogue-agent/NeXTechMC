@@ -1,0 +1,46 @@
+< en_US.lang - English lang file for the NeXTech mod >
+item.Plastic.name=Plastic Pellets
+item.DustSulfur.name=Sulfur dust
+item.StonePebbles.name=Stone pebbles
+item.DustTechnetium.name=Technetium dust
+item.ChunkUranium.name=Uranium chunk
+item.ChunkCopper.name=Copper chunk
+item.IngotCopper.name=Copper ingot
+item.ChunkIridium.name=Iridium chunk
+item.IngotIridium.name=Iridium ingot
+item.ChunkOsmium.name=Osmium chunk
+item.ChunkOsmiridium.name=Osmiridium chunk
+item.IngotOsmium.name=Osmium ingot
+item.ChunkTitanium.name=Titanium chunk
+item.IngotTitanium.name=Titanium ingot
+item.ChunkGallium.name=Gallium chunk
+item.IngotGallium.name=Gallium ingot
+item.ChunkSilver.name=Silver chunk
+item.IngotSilver.name=Silver ingot
+item.IngotUranium.name=Uranium disk
+item.IngotCadmium.name=Cadmium ingot
+item.ChunkCadmium.name=Cadmium chunk
+item.ChunkThorium.name=Thorium chunk
+item.CoalAnthracite.name=Anthracite coal
+item.DustPotassiumNitrate=Potassium nitrate
+
+itemGroup.techmod=NeXTech mod
+
+tile.OreCadmium.name=Cadmium ore
+tile.OreIridium.name=Iridium ore
+tile.OreUranium.name=Uranium ore
+tile.OreOsmium.name=Osmium ore
+tile.OreWolfram.name=Tungsten ore
+tile.OreOsmiridium.name=Osmiridium ore
+tile.OrePlatinum.name=Platinum ore
+tile.OreNickel.name=Nickel ore
+tile.OreSulfur.name=Sulfur ore
+tile.OreCopper.name=Copper ore
+tile.OreTitanium.name=Titanium ore
+tile.OreGallium.name=Gallium ore
+tile.OreSilver.name=Silver ore
+tile.Forge.name=Forge
+tile.ForgeActive.name=Active forge
+tile.OreThorium.name=Thorium ore
+tile.OreCoalAnthracite=Anthracite ore
+tile.OrePotassiumNitrate=Potassium nitrate crystal
