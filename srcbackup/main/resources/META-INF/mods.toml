@@ -14,15 +14,15 @@ issueTrackerURL="https://github.com/rogue-agent/NeXTechMC/issues" #optional
 # The modid of the mod
 modId="nextech" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
-version="${version}" #mandatory
+version="${file.jarVersion}" #mandatory
  # A display name for the mod
 displayName="NexTech" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
-updateJSONURL="http://myurl.me/" #optional
+updateJSONURL="" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
 displayURL="https://www.curseforge.com/minecraft/mc-mods/nxtsel3" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="logo.png" #optional
+logoFile="ico.png" #optional
 # A text field displayed in the mod UI
 credits="Thanks to KingNXT, Choonster, Jimbo, Wuppy and all the others not mentioned for helping us out, also airwolf for nice reviews!" #optional
 # A text field displayed in the mod UI
@@ -40,22 +40,4 @@ Every texture should be 32x32 for more pixels. Replace your old rusty IC2 machin
 
 And Not that expensiv! Every block/item/ore is like in real life.
 '''
-# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.examplemod]] #optional
-    # the modid of the dependency
-    modId="forge" #mandatory
-    # Does this dependency have to exist - if not, ordering below must be specified
-    mandatory=true #mandatory
-    # The version range of the dependency
-    versionRange="[31,)" #mandatory
-    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
-    ordering="NONE"
-    # Side this dependency is applied on - BOTH, CLIENT or SERVER
-    side="BOTH"
-# Here's another dependency
-[[dependencies.examplemod]]
-    modId="minecraft"
-    mandatory=true
-    versionRange="[1.15.2]"
-    ordering="NONE"
-    side="BOTH"
+
